@@ -67757,7 +67757,7 @@ Y.I2.prototype={
 E:function(a,b){var s,r=null
 X.aj9(C.BY)
 s=b.L(t.w).f
-return M.Km(E.Cp(!0,C.i,!0,r,r,M.bP(r,T.bZ(L.aV(u.H,r,r,r,A.as(r,r,C.z,r,r,r,r,r,r,r,r,25,r,C.r,r,r,!0,r,r,r,r,r,r),r,r),r,r),C.p,r,r,r,r,r,r,r,r,r,s.a.a)),new P.v(4294770175),T.bZ(E.apa(T.fD(C.bh,H.a([T.bZ(U.anz("assets/images/bodyBG.png"),r,r),T.bZ(new T.bf(C.G1,new V.I1(S.c_($.b5(),M.Fj(),t.yl),r),r),r,r)],t._),C.bn)),r,r))}}
+return M.Km(E.Cp(!0,C.i,!0,r,r,M.bP(r,T.bZ(L.aV("\u062f\u0628\u06cc\u0631\u0633\u062a\u0627\u0646 \u062f\u062e\u062a\u0631\u0627\u0646\u0647 \u0642\u062f\u0633",r,r,r,A.as(r,r,C.z,r,r,r,r,r,r,r,r,25,r,C.r,r,r,!0,r,r,r,r,r,r),r,r),r,r),C.p,r,r,r,r,r,r,r,r,r,s.a.a)),new P.v(4294770175),T.bZ(E.apa(T.fD(C.bh,H.a([T.bZ(U.anz("assets/images/bodyBG.png"),r,r),T.bZ(new T.bf(C.G1,new V.I1(S.c_($.b5(),M.Fj(),t.yl),r),r),r,r)],t._),C.bn)),r,r))}}
 B.aar.prototype={}
 D.Up.prototype={
 td:function(){var s=0,r=P.a8(t.wd),q,p=2,o,n=[],m,l,k,j,i
