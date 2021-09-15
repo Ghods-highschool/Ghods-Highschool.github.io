@@ -67124,7 +67124,7 @@ acd:function(a,b){return this.OD(a,b,null)},
 gaG:function(a){return this.db}}
 F.I7.prototype={
 E:function(a,b){var s=H.a([C.DY,C.E2],t.Ez),r=H.a([C.OR],t._p),q=X.aje(null,"Far-Yekan",C.i,C.z)
-return new S.w0(P.aP(["/",new F.a1c()],t.bD,t.sy),"/","\u062f\u0628\u06cc\u0631\u0633\u062a\u0627\u0646 \u062f\u062e\u062a\u0631\u0627\u0646\u0647 \u0642\u062f\u0633",q,s,r,!1,null)}}
+return new S.w0(P.aP(["/",new F.a1c()],t.bD,t.sy),"/",u.H,q,s,r,!1,null)}}
 F.a1c.prototype={
 $1:function(a){return new L.ne(null)},
 $S:404}
@@ -67745,7 +67745,7 @@ return r}}
 Y.Fq.prototype={
 E:function(a,b){var s,r,q,p,o=null
 X.aj9(C.BY)
-s=E.Cp(!0,C.i,!0,o,o,L.aV("\u062f\u0628\u06cc\u0631\u0633\u062a\u0627\u0646 \u062f\u062e\u062a\u0631\u0627\u0646\u0647 \u0642\u062f\u0633",o,o,o,A.as(o,o,C.z,o,o,o,o,o,o,o,o,25,o,C.r,o,o,!0,o,o,o,o,o,o),o,o))
+s=E.Cp(!0,C.i,!0,o,o,L.aV(u.H,o,o,o,A.as(o,o,C.z,o,o,o,o,o,o,o,o,25,o,C.r,o,o,!0,o,o,o,o,o,o),o,o))
 r=T.bZ(U.anz("assets/images/bodyBG.png"),o,o)
 q=$.b5()
 p=t._
