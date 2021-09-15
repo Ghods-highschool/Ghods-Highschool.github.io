@@ -67619,7 +67619,7 @@ return P.a7($async$$0,r)},
 $S:424}
 Z.Vh.prototype={
 $1:function(a){var s=null
-return a.dy===C.ci?L.aV("\u062f\u0631\u06cc\u0627\u0641\u062a \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u067e\u0627\u062f\u0627",s,s,s,A.as(s,s,C.i,s,s,s,s,s,s,s,s,20,s,C.r,s,s,!0,s,s,s,s,s,s),s,s):L.aV("\u0648\u0631\u0648\u062f \u0628\u0647 \u067e\u0646\u0644 \u0627\u062f\u0645\u06cc\u0646",s,s,s,A.as(s,s,C.i,s,s,s,s,s,s,s,s,20,s,C.r,s,s,!0,s,s,s,s,s,s),s,s)},
+return a.dy===C.ci?L.aV("\u062a\u0627\u06cc\u06cc\u062f",s,s,s,A.as(s,s,C.i,s,s,s,s,s,s,s,s,20,s,C.r,s,s,!0,s,s,s,s,s,s),s,s):L.aV("\u0648\u0631\u0648\u062f \u0628\u0647 \u067e\u0646\u0644 \u0627\u062f\u0645\u06cc\u0646",s,s,s,A.as(s,s,C.i,s,s,s,s,s,s,s,s,20,s,C.r,s,s,!0,s,s,s,s,s,s),s,s)},
 $S:425}
 U.I8.prototype={
 E:function(a,b){return M.hG(new U.a1h(),t.g)}}
