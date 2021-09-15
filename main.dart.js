@@ -18009,14 +18009,15 @@ this.b=b},
 Oo:function Oo(){},
 azh:function(){return new T.vo(new S.a0H(),P.A(t.K,t.Qu))},
 a8a:function a8a(a){this.b=a},
-w0:function w0(a,b,c,d,e,f,g){var _=this
+w0:function w0(a,b,c,d,e,f,g,h){var _=this
 _.f=a
 _.r=b
-_.fx=c
-_.k4=d
-_.rx=e
-_.y2=f
-_.a=g},
+_.dy=c
+_.fx=d
+_.k4=e
+_.rx=f
+_.y2=g
+_.a=h},
 a0H:function a0H(){},
 ac4:function ac4(){},
 zU:function zU(a){var _=this
@@ -42456,7 +42457,7 @@ Xo:function(a){var s,r=this,q=null,p=r.a,o=p.fx
 o=o.b
 s=o
 if(s==null)s=C.mO
-return new S.yJ(q,q,q,new S.ac_(),q,q,q,q,q,p.f,q,p.r,C.M9,r.ga1M(),"",q,C.VI,s,q,r.gHD(),q,q,r.a.rx,!1,!1,!1,!1,r.ga1o(),!1,q,q,q,new N.ld(r,t.bT))},
+return new S.yJ(q,q,q,new S.ac_(),q,q,q,q,q,p.f,q,p.r,C.M9,r.ga1M(),p.dy,q,C.VI,s,q,r.gHD(),q,q,r.a.rx,!1,!1,!1,!1,r.ga1o(),!1,q,q,q,new N.ld(r,t.bT))},
 E:function(a,b){var s=this.Xo(b),r=this.d
 if(r===$)r=H.e(H.q("_heroController"))
 return new K.xy(new S.ac4(),new K.n1(r,s,null),null)}}
@@ -67123,7 +67124,7 @@ acd:function(a,b){return this.OD(a,b,null)},
 gaG:function(a){return this.db}}
 F.I7.prototype={
 E:function(a,b){var s=H.a([C.DY,C.E2],t.Ez),r=H.a([C.OR],t._p),q=X.aje(null,"Far-Yekan",C.i,C.z)
-return new S.w0(P.aP(["/",new F.a1c()],t.bD,t.sy),"/",q,s,r,!1,null)}}
+return new S.w0(P.aP(["/",new F.a1c()],t.bD,t.sy),"/","\u062f\u0628\u06cc\u0631\u0633\u062a\u0627\u0646 \u062f\u062e\u062a\u0631\u0627\u0646\u0647 \u0642\u062f\u0633",q,s,r,!1,null)}}
 F.a1c.prototype={
 $1:function(a){return new L.ne(null)},
 $S:404}
